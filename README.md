@@ -1,9 +1,8 @@
-# RETO DE CODIGO RED SOCIAL
+# PRODUCTO FINAL : VIRÚ SOCIAL.
 Track: Common Core.  
-Curso: Crea tu propia red social.
+Curso: Crea tu propia red social.  
 
-## RESEÑA
-En el siguiente trabajo se realizó una web-app responsive con motivos peruanos que acerca a mas personas de diferentes culturas ,la red social tiene de nombre VIRÚ SOCIAL al ingresar a VIRÚ SOCIAL te conectas con la red mas grande de intercambio cultural que mediante un mapa de geolocalizacion te conecta con personas que se encuentren cerca de ti con gustos en común.
+> Red Social con motivos Peruanos para personas que realizan intercambios culturales
 
 ## FLUJO DE LA APLICACIÓN
 - Vista principal se encuantra la bienvenida de VIRÚ SOCIAL y dos botones ,el primero indica "Registro" en el cual el usuario nuevo tiene que ingresar sus datos,correo y contraseña que se guardara en nuestra base de datos. El segundo boton indica "Iniciar Sesion" en el cual el usuario tiene que ingresar el correo y contraseña que utilizó para registrarse.
