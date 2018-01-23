@@ -247,11 +247,17 @@ textarea {
     padding: 2em;
 }
 
-.main-page .btn-lg{
+.main-page .btn-in{
     margin: 1rem;
     border: 0.2rem solid #fff;
     background: transparent;
     color: #fff;
+}
+
+.btn-reg {
+    margin: 1rem;
+    border: 0.2rem solid #fff;
+    background: white;
 }
 /* ------------ FIN - ESTILOS DE VISTA PRINCIPAL----------*/
 /* ------------ INICIO - ESTILOS DE REGISTRO----------*/
@@ -308,7 +314,7 @@ textarea {
 }
 /*btn-Universidad*/
 .btn-Universdd {
-  color: #56bdab;
+  color: red;
   margin-bottom: 3rem;
 }
 /* ------------ FIN - ESTILOS DE VISTA INICIO DE SESION ----------*/
