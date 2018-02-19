@@ -1,4 +1,4 @@
-# PRODUCTO FINAL : VIRÚ SOCIAL.
+## PRODUCTO FINAL : VIRÚ SOCIAL.
 
 Red Social con motivos peruanos para personas que realizan intercambios culturales.   
 
