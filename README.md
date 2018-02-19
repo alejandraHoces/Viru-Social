@@ -1,8 +1,8 @@
 # PRODUCTO FINAL : VIRÚ SOCIAL.
-Track: Common Core.  
-Curso: Crea tu propia red social.  
 
-> Red Social con motivos peruanos para personas que realizan intercambios culturales.
+Red Social con motivos peruanos para personas que realizan intercambios culturales.
+
+#### Desarrollado para el Bootcamp de Laboratoria
 
 ## FLUJO DE LA APLICACIÓN
 - Vista principal se encuantra la bienvenida de VIRÚ SOCIAL y dos botones ,el primero indica "Registro" en el cual el usuario nuevo tiene que ingresar sus datos,correo y contraseña que se guardara en nuestra base de datos. El segundo boton indica "Iniciar Sesion" en el cual el usuario tiene que ingresar el correo y contraseña que utilizó para registrarse.
