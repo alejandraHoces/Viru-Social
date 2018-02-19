@@ -12,7 +12,7 @@ Producto final VIRÚ SOCIAL una red social con motivos peruanos para personas qu
 - Vista Contenido se muestra un newfest de las publicaciones de los usuarios,a su vez el usuario de VIRÚ SOCIAL tambien puede realizar sus publicaciones. Se encuentra tambien un mapa de geolocalizacion en el cual se muestran los usuarios cerca de ti al hacer click en la imagen de alguno se muestra un modal en el cual aparece sus datos y un boton de seguir.
 - Vista Perfil en esta vista se muestra el un espacion en el que puede realizar publicaciones y al mismo tiempo una seccion en la cual pueda publicar sus fotos.
 
-### Herramientas
+### HERRAMIENTAS
 - CSS3 (@Media Queries)  
 - HTML5  
 - FRAMEWORK BOOTSTRAP  
@@ -24,7 +24,7 @@ Producto final VIRÚ SOCIAL una red social con motivos peruanos para personas qu
 Alejandra Hoces.  
 Valeria Valles.
 
-### Vistas de la aplicacion
+### VISTAS DE LA APLICACIÓN
 
 > vistas/inicio
 
