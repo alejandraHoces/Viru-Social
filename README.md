@@ -1,6 +1,8 @@
 # PRODUCTO FINAL : VIRÚ SOCIAL.
 
-Red Social con motivos peruanos para personas que realizan intercambios culturales.
+Red Social con motivos peruanos para personas que realizan intercambios culturales.   
+
+![portada](https://user-images.githubusercontent.com/31807340/36395824-1f02b550-1589-11e8-9821-5cfb6c08722e.png)
 
 #### Desarrollado para el Bootcamp de Laboratoria
 
