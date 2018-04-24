@@ -1,8 +1,7 @@
 # PRODUCTO FINAL : VIRU SOCIAL.
 
-Producto final VIRÚ SOCIAL una red social con motivos peruanos para personas que realizan intercambios culturales, sirve para intercambiar información, pedir recomendaciones, y conocer amigos.
-
-![portada](https://user-images.githubusercontent.com/31807340/36395824-1f02b550-1589-11e8-9821-5cfb6c08722e.png)
+Producto final VIRÚ SOCIAL una red social con motivos peruanos para personas que realizan intercambios culturales, sirve para intercambiar información, pedir recomendaciones, y conocer amigos.  
+![corel](https://user-images.githubusercontent.com/31807340/39160264-e9f25e28-472f-11e8-974b-36c5ae1f8982.png)
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
