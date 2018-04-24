@@ -17,17 +17,17 @@ Realizamos entrevistas en el centro comercial plaza lima norte, fueron 5 persona
 6.¿Usted a tenido una mala experiencia como usuario de una Red Social?  
 7.¿Si usted pudiera crear una Red Social de que trataria?  
 
-[Ver detalle aquí!](https://trello.com/c/HiNz79AQ/5-d%C3%ADa-1preguntas-de-la-entrevista-identificar-una-necesidad-empatizar)  
+[Ver detalle de la entrevista](https://trello.com/c/HiNz79AQ/5-d%C3%ADa-1preguntas-de-la-entrevista-identificar-una-necesidad-empatizar)  
 
 ### SINTESIS
 Algunas necesidades encontradas en nuestra entrevista.  
 
--Una red social donde personas de diferentes partes del mundo intercambien culturas.  
--Una red social donde puedas ubicar personas cerca de ti.  
--Una red social divertida.  
--Una red social que busque a personas con gustos en común que publique información.  
--Una red social que tenga filtros de seguridad.  
--Una red social Innovadora.  
+- Una red social donde personas de diferentes partes del mundo intercambien culturas.  
+- Una red social donde puedas ubicar personas cerca de ti.  
+- Una red social divertida.  
+- Una red social que busque a personas con gustos en común que publique información.  
+- Una red social que tenga filtros de seguridad.  
+- Una red social Innovadora.  
 
 ### PROTOTIPADO  
 ![corel](https://user-images.githubusercontent.com/31807340/39161641-5494e82a-4737-11e8-97c5-dbedfff5f573.png)
