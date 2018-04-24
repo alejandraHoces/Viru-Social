@@ -30,6 +30,8 @@ Algunas necesidades encontradas en nuestra entrevista.
 - Una red social Innovadora.  
 
 ### PROTOTIPADO  
+
+Realizamos un prototipo en papel para validar nuestro producto digital.  
 ![corel](https://user-images.githubusercontent.com/31807340/39161641-5494e82a-4737-11e8-97c5-dbedfff5f573.png)
 
 ### FLUJO DE LA APLICACIÓN
