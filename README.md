@@ -1,6 +1,7 @@
 # PRODUCTO FINAL : VIRU SOCIAL.
 
-Producto final VIRÚ SOCIAL una red social con motivos peruanos para personas que realizan intercambios culturales, sirve para intercambiar información, pedir recomendaciones, y conocer amigos.  
+Virú social nace por la necesidad de encontrar una comunidad en la cual se fomente el intercambio de información cultural, es una idea creativa que da lugar a esta red social un lugar para compartir y postear pasatiempos, gustos e información sobre otras culturas.   
+
 ![corel](https://user-images.githubusercontent.com/31807340/39160264-e9f25e28-472f-11e8-974b-36c5ae1f8982.png)
 
 ## Desarrollado para 
